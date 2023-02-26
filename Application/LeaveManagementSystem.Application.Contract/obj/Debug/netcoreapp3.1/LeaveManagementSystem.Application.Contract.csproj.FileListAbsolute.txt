@@ -1,0 +1,8 @@
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Application\LeaveManagementSystem.Application.Contract\bin\Debug\netcoreapp3.1\LeaveManagementSystem.Application.Contract.deps.json
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Application\LeaveManagementSystem.Application.Contract\bin\Debug\netcoreapp3.1\LeaveManagementSystem.Application.Contract.dll
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Application\LeaveManagementSystem.Application.Contract\bin\Debug\netcoreapp3.1\LeaveManagementSystem.Application.Contract.pdb
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Application\LeaveManagementSystem.Application.Contract\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Application.Contract.csprojAssemblyReference.cache
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Application\LeaveManagementSystem.Application.Contract\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Application.Contract.AssemblyInfoInputs.cache
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Application\LeaveManagementSystem.Application.Contract\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Application.Contract.AssemblyInfo.cs
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Application\LeaveManagementSystem.Application.Contract\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Application.Contract.dll
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Application\LeaveManagementSystem.Application.Contract\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Application.Contract.pdb

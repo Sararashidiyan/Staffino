@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Framework\LeaveManagementSystem.Framework\LeaveManagementSystem.Framework.csproj" />
+    <ProjectReference Include="..\LeaveManagementSystem.Domain.Contract\LeaveManagementSystem.Domain.Contract.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\LeaveRequests\" />
+  </ItemGroup>
+
+</Project>

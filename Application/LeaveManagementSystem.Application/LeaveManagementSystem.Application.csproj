@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Infrastructure\LeaveManagementSystem.Security.AspIdentity\LeaveManagementSystem.Security.AspIdentity.csproj" />
+    <ProjectReference Include="..\LeaveManagementSystem.Application.Contract\LeaveManagementSystem.Application.Contract.csproj" />
+  </ItemGroup>
+
+</Project>

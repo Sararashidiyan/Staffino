@@ -1,0 +1,15 @@
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Infrastructure\LeaveManagementSystem.Security.AspIdentity\bin\Debug\netcoreapp3.1\LeaveManagementSystem.Security.AspIdentity.deps.json
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Infrastructure\LeaveManagementSystem.Security.AspIdentity\bin\Debug\netcoreapp3.1\LeaveManagementSystem.Security.AspIdentity.dll
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Infrastructure\LeaveManagementSystem.Security.AspIdentity\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Security.AspIdentity.AssemblyInfoInputs.cache
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Infrastructure\LeaveManagementSystem.Security.AspIdentity\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Security.AspIdentity.AssemblyInfo.cs
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Infrastructure\LeaveManagementSystem.Security.AspIdentity\bin\Debug\netcoreapp3.1\LeaveManagementSystem.Security.AspIdentity.runtimeconfig.json
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Infrastructure\LeaveManagementSystem.Security.AspIdentity\bin\Debug\netcoreapp3.1\LeaveManagementSystem.Security.AspIdentity.runtimeconfig.dev.json
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Infrastructure\LeaveManagementSystem.Security.AspIdentity\bin\Debug\netcoreapp3.1\LeaveManagementSystem.Security.AspIdentity.pdb
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Infrastructure\LeaveManagementSystem.Security.AspIdentity\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Security.AspIdentity.dll
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Infrastructure\LeaveManagementSystem.Security.AspIdentity\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Security.AspIdentity.pdb
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Interface\LeaveManagementSystem.Interface.Api\bin\netcoreapp3.1\LeaveManagementSystem.Security.AspIdentity.deps.json
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Interface\LeaveManagementSystem.Interface.Api\bin\netcoreapp3.1\LeaveManagementSystem.Security.AspIdentity.runtimeconfig.json
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Interface\LeaveManagementSystem.Interface.Api\bin\netcoreapp3.1\LeaveManagementSystem.Security.AspIdentity.runtimeconfig.dev.json
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Interface\LeaveManagementSystem.Interface.Api\bin\netcoreapp3.1\LeaveManagementSystem.Security.AspIdentity.dll
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Interface\LeaveManagementSystem.Interface.Api\bin\netcoreapp3.1\LeaveManagementSystem.Security.AspIdentity.pdb
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Infrastructure\LeaveManagementSystem.Security.AspIdentity\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Security.AspIdentity.csprojAssemblyReference.cache

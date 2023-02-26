@@ -1,0 +1,5 @@
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Infrastructure\LeaveManagementSystem.Persistence.EF\bin\Debug\netcoreapp3.1\LeaveManagementSystem.Persistence.EF.deps.json
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Infrastructure\LeaveManagementSystem.Persistence.EF\bin\Debug\netcoreapp3.1\LeaveManagementSystem.Persistence.EF.dll
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Infrastructure\LeaveManagementSystem.Persistence.EF\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Persistence.EF.csprojAssemblyReference.cache
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Infrastructure\LeaveManagementSystem.Persistence.EF\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Persistence.EF.AssemblyInfoInputs.cache
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Infrastructure\LeaveManagementSystem.Persistence.EF\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Persistence.EF.AssemblyInfo.cs

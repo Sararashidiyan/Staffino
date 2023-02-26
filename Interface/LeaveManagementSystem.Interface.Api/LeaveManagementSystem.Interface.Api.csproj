@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.15" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.15">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Application\LeaveManagementSystem.Application.Contract\LeaveManagementSystem.Application.Contract.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\LeaveManagementSystem.Persistence.EF\LeaveManagementSystem.Persistence.EF.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\LeaveManagementSystem.Security.AspIdentity\LeaveManagementSystem.Security.AspIdentity.csproj" />
+  </ItemGroup>
+
+
+</Project>

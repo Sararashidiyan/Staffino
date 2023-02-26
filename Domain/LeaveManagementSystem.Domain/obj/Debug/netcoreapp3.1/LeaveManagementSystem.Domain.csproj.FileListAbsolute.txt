@@ -1,0 +1,11 @@
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Domain\LeaveManagementSystem.Domain\bin\Debug\netcoreapp3.1\LeaveManagementSystem.Domain.deps.json
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Domain\LeaveManagementSystem.Domain\bin\Debug\netcoreapp3.1\LeaveManagementSystem.Domain.dll
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Domain\LeaveManagementSystem.Domain\bin\Debug\netcoreapp3.1\LeaveManagementSystem.Domain.pdb
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Domain\LeaveManagementSystem.Domain\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Domain.csprojAssemblyReference.cache
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Domain\LeaveManagementSystem.Domain\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Domain.AssemblyInfoInputs.cache
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Domain\LeaveManagementSystem.Domain\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Domain.AssemblyInfo.cs
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Domain\LeaveManagementSystem.Domain\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Domain.dll
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Domain\LeaveManagementSystem.Domain\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Domain.pdb
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Domain\LeaveManagementSystem.Domain\bin\Debug\netcoreapp3.1\LeaveManagementSystem.Framework.dll
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Domain\LeaveManagementSystem.Domain\bin\Debug\netcoreapp3.1\LeaveManagementSystem.Framework.pdb
+D:\SaraReshidian\MyProject\LeaveManagementSystem\Domain\LeaveManagementSystem.Domain\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Domain.csproj.CopyComplete

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LeaveManagementSystem.Domain/1.0.0": {
+        "dependencies": {
+          "LeaveManagementSystem.Framework": "1.0.0"
+        },
+        "runtime": {
+          "LeaveManagementSystem.Domain.dll": {}
+        }
+      },
+      "LeaveManagementSystem.Framework/1.0.0": {
+        "runtime": {
+          "LeaveManagementSystem.Framework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeaveManagementSystem.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LeaveManagementSystem.Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
