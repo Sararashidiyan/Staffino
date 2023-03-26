@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace LeaveManagementSystem.Security.AspIdentity.Migrations
 {
-    [DbContext(typeof(ApplicationDbContext))]
+    [DbContext(typeof(UserManagementDbContext))]
     [Migration("20230217201044_initial")]
     partial class initial
     {

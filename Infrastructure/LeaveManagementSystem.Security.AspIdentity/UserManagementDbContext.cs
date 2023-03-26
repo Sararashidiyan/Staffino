@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace LeaveManagementSystem.Security.AspIdentity
 {
-    public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
+    public class UserManagementDbContext : IdentityDbContext<ApplicationUser>
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
+        public UserManagementDbContext(DbContextOptions<UserManagementDbContext> options) : base(options)
         {
 
         }

@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using LeaveManagementSystem.Application.Contract;
+using LeaveManagementSystem.Application.Contract.Authenticate;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace LeaveManagementSystem.Interface.Api.Controllers
+namespace LeaveManagementSystem.Interface.Api.Controllers.SecurityControllers
 {
-
+    [AllowAnonymous]
     [ApiController]
     [Route("[controller]")]
     public class AuthenticateController : ControllerBase
@@ -22,9 +22,10 @@ namespace LeaveManagementSystem.Interface.Api.Controllers
 
         [HttpPost]
         [Route("Login")]
-        public async Task<ActionResult> Login()
+        public async Task<ActionResult> Login(LoginDto loginInfo)
         {
-            var loginResult = await _authenticateService.Login();
+
+            var loginResult = await _authenticateService.Authenticate(loginInfo);
             if (loginResult.SignInStatus == SignInStatusEnum.OK)
                 return Ok(new { token = loginResult.TokenInfo.Token, expiration = loginResult.TokenInfo.Expiration });
             return Unauthorized();

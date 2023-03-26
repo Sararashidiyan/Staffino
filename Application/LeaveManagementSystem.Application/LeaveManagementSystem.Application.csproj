@@ -5,6 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Domain\LeaveManagementSystem.Domain\LeaveManagementSystem.Domain.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\LeaveManagementSystem.Core\LeaveManagementSystem.Core.csproj" />
     <ProjectReference Include="..\..\Infrastructure\LeaveManagementSystem.Security.AspIdentity\LeaveManagementSystem.Security.AspIdentity.csproj" />
     <ProjectReference Include="..\LeaveManagementSystem.Application.Contract\LeaveManagementSystem.Application.Contract.csproj" />
   </ItemGroup>

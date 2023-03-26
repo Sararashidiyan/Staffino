@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using LeaveManagementSystem.Core;
 
 namespace LeaveManagementSystem.Framework
 {
@@ -9,11 +10,12 @@ namespace LeaveManagementSystem.Framework
         public TKey Id { get; private set; }
         public Guid UserId { get; private set; }
         public DateTime CreateDateTime { get;private set; }
-        public DateTime LastEditDateTime { get; private set; }
+        public DateTime? LastEditDateTime { get; private set; }
 
         public EntityBase()
         {
             CreateDateTime=DateTime.Now;
+            UserId = ClaimHelper.GetCurrentUser();
         }
     }
 }
