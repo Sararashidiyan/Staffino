@@ -1,8 +1,0 @@
-D:\SaraReshidian\MyProject\LeaveManagementSystem\Framework\LeaveManagementSystem.Framework\bin\Debug\netcoreapp3.1\LeaveManagementSystem.Framework.deps.json
-D:\SaraReshidian\MyProject\LeaveManagementSystem\Framework\LeaveManagementSystem.Framework\bin\Debug\netcoreapp3.1\LeaveManagementSystem.Framework.dll
-D:\SaraReshidian\MyProject\LeaveManagementSystem\Framework\LeaveManagementSystem.Framework\bin\Debug\netcoreapp3.1\LeaveManagementSystem.Framework.pdb
-D:\SaraReshidian\MyProject\LeaveManagementSystem\Framework\LeaveManagementSystem.Framework\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Framework.csprojAssemblyReference.cache
-D:\SaraReshidian\MyProject\LeaveManagementSystem\Framework\LeaveManagementSystem.Framework\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Framework.AssemblyInfoInputs.cache
-D:\SaraReshidian\MyProject\LeaveManagementSystem\Framework\LeaveManagementSystem.Framework\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Framework.AssemblyInfo.cs
-D:\SaraReshidian\MyProject\LeaveManagementSystem\Framework\LeaveManagementSystem.Framework\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Framework.dll
-D:\SaraReshidian\MyProject\LeaveManagementSystem\Framework\LeaveManagementSystem.Framework\obj\Debug\netcoreapp3.1\LeaveManagementSystem.Framework.pdb
