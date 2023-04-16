@@ -7,5 +7,10 @@ namespace LeaveManagementSystem.Domain.Models.Positions
 {
     public interface IPositionRepository: IRepository<Position,int>
     {
+        List<Position> GetByDepartmentId(int departmentId);
+    }
+    public interface IUserRepository : IRepository<User, int>
+    {
+        List<Position> GetByDepartmentId(int departmentId);
     }
 }

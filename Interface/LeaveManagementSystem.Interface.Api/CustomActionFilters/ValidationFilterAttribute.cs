@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc.Filters;
 using System.Security.Claims;
 using Microsoft.AspNetCore.Mvc;
 using LeaveManagementSystem.Application.Contract;
+using System.Net;
 
 namespace LeaveManagementSystem.Interface.Api.CustomActionFilters
 {
@@ -22,5 +23,4 @@ namespace LeaveManagementSystem.Interface.Api.CustomActionFilters
                 context.Result = new UnprocessableEntityObjectResult(context.ModelState);
         }
     }
-
 }

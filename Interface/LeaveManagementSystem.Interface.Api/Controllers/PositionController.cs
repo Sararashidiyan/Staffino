@@ -24,9 +24,10 @@ namespace LeaveManagementSystem.Interface.Api.Controllers
             return Ok(position);
         }
         [HttpGet("GetByDepartmentId")]
-        public ActionResult Get()
+        public ActionResult Get(int departmentId)
         {
-            return Ok(new PositionDto());
+            var positions = _positionService.GetByDepartmentId(departmentId);
+            return Ok(positions);
         }
 
         [ServiceFilter(typeof(ValidationFilterAttribute))]
@@ -38,25 +39,29 @@ namespace LeaveManagementSystem.Interface.Api.Controllers
         }
 
         [ServiceFilter(typeof(ValidationFilterAttribute))]
-        [HttpPut]
+        [HttpPut("Modify")]
         public ActionResult Put(ModifyPositionDto item)
         {
-            return null;
+            _positionService.Modify(item);
+            return Ok();
         }
-        [HttpPut]
-        public ActionResult DeActivate(DeActivatePositionDto item)
+        [HttpPut("DeActivate")]
+        public ActionResult DeActivate(int id)
         {
-            return null;
+            _positionService.DeActivate(id);
+            return Ok();
         }
-        [HttpPut]
-        public ActionResult Activate(ActivatePositionDto item)
+        [HttpPut("Activate")]
+        public ActionResult Activate(int id)
         {
-            return null;
+            _positionService.DeActivate(id);
+            return Ok();
         }
-        [HttpPut]
+        [HttpDelete]
         public ActionResult Delete(int id)
         {
-            return null;
+            _positionService.Delete(id);
+            return Ok();
         }
     }
 }

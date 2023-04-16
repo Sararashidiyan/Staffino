@@ -10,6 +10,7 @@ namespace LeaveManagementSystem.Application.Contract.Position
     {
         [HasPermission("")]
         PositionDto GetById(int id);
+        List<PositionDto> GetByDepartmentId(int departmentId);
         void Create(CreatePositionDto item);
         void Modify(ModifyPositionDto item);
         void Activate(int id);
