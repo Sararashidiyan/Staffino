@@ -17,7 +17,7 @@ namespace LeaveManagementSystem.Interface.Api.Controllers
             _positionService = positionService;
         }
 
-        [HttpGet("GetById")]
+        [HttpGet("GetById/{id}")]
         public ActionResult GetById(int id)
         {
             var position = _positionService.GetById(id);
